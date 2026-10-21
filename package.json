@@ -1,0 +1,12 @@
+{
+  "name": "argon-bridge-extension",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A Chrome extension connecting selected project files with Google AI Studio.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

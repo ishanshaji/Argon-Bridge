@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+*.zip
+argon-recovery-*.json
+playwright-report/
+test-results/
